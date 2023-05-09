@@ -592,7 +592,7 @@ let sum = num1 + num2
 - 分支结构（根据条件选择执行代码）
 - 循环结构（某段代码被重复执行）
 
-![image-20230412213438204](image/image-20230412213438204.png)
+![image-20230412213438204](JavaScriptimage/image-20230412213438204.png)
 
 ## 分支语句
 
@@ -1336,7 +1336,7 @@ Math.sqrt(16)
 
 ## 术语解释
 
-![image-20230508190406107](image\image-20230508190406107.png)
+![image-20230508190406107](JavaScriptimage/image-20230508190406107.png)
 
 ## 基本数据类型和引用数据类型
 
@@ -1347,7 +1347,7 @@ Math.sqrt(16)
 - 引用类型：在存储时变量中存储的仅仅是==地址（引用）==，因此叫做引用数据类型，地址在栈里，内容放在堆里
   - 通过new关键字创建的对象（系统对象、自定义对象），如Object、Array、Date等
 
-![image-20230508220819770](D:\note8848\image\image-20230508220819770.png)
+![image-20230508220819770](JavaScriptimage/image-20230508220819770.png)
 
 ```javascript
 // 案例
@@ -1357,7 +1357,7 @@ num2 = 20
 console.log(num1) // 结果为10
 ```
 
-![image-20230508221152504](D:\note8848\image\image-20230508221152504.png)
+![image-20230508221152504](JavaScriptimage/image-20230508221152504.png)
 
 ```javascript
 let obj1 = {
